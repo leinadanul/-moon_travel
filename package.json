@@ -2,6 +2,7 @@
   "name": "web-space-travel-frontend",
   "private": true,
   "version": "0.0.0",
+  "PUBLIC_URL": "https://leinadanul.github.io/moon_travel",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -20,7 +21,8 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2",
     "three": "^0.168.0",
-    "typescript-eslint": "^8.6.0"
+    "typescript-eslint": "^8.6.0",
+    "web-space-travel-frontend": "file:"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
